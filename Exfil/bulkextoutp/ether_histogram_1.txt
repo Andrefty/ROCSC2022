@@ -1,0 +1,8 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: ether
+# Filename: Forensics.pcapng
+# Histogram-File-Version: 1.1
+n=87138	00:0C:29:73:89:67
+n=87130	00:50:56:F9:7B:FE
+n=20	01:00:5E:7F:FF:FA

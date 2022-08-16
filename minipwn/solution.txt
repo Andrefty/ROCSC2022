@@ -1,0 +1,3 @@
+Am navigat la http://34.141.25.94:31609/flag.txt, si am preluat flag-ul
+
+ROCSC{220c86cab87f8016f63660d369001d908b94df19ab406f01394e5c5c7eee88ac}

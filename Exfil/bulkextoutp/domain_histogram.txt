@@ -1,0 +1,30 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: domain
+# Filename: Forensics.pcapng
+# Histogram-File-Version: 1.1
+n=132	openssh.com
+n=124	rstforums.com
+n=55	nmap.org
+n=26	cacerts.digicert.com
+n=26	crl3.digicert.com
+n=17	crl4.digicert.com
+n=13	ocsp.digicert.com
+n=13	www.digicert.com
+n=10	ocsp.digicert.com0O
+n=6	libssh.org
+n=5	info.cern.ch
+n=4	apps.identrust.com
+n=4	cps.letsencrypt.org
+n=4	cps.root-x1.letsencrypt.org
+n=4	crl.identrust.com
+n=4	r3.i.lencr.org
+n=4	r3.o.lencr.org
+n=4	www.w3.org
+n=4	x1.c.lencr.org
+n=4	x1.i.lencr.org
+n=3	ocsp.digicert.com0I
+n=2	home.web.cern.ch
+n=2	schemas.xmlsoap.org
+n=1	line-mode.cern.ch
+n=1	www.google.com

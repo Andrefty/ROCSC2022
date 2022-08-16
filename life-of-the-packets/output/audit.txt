@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jul 23 15:45:16 2022
+Invocation: foremost -v -i captura.pcapng 
+Output directory: /home/mihnea/Desktop/Rocsc/life-of-the-packets/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: captura.pcapng
+Start: Sat Jul 23 15:45:16 2022
+Length: 52 KB (54248 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sat Jul 23 15:45:16 2022
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sat Jul 23 15:45:16 2022

@@ -1,0 +1,51 @@
+./scalpeloutput/ÿ-0-20/00020672:3: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-20/00020999:330: The AMD library provides a set of routines for pre-ordering sparse matrices
+./scalpeloutput/ÿ-0-20/00020669:6: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-20/00020998:338: The AMD library provides a set of routines for pre-ordering sparse matrices
+./scalpeloutput/ÿ-0-20/00020670:5: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-20/00020671:4: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-20/00020833:1:processors.  AMD releases microcode patches to correct
+./scalpeloutput/ÿ-0-0/00000033:36:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000030:106:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000028:4:#define EM_X86_64	62	/* AMD x86-64 architecture */
+./scalpeloutput/ÿ-0-0/00000028:139:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000029:3:#define EM_X86_64	62	/* AMD x86-64 architecture */
+./scalpeloutput/ÿ-0-0/00000029:138:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000032:90:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000031:96:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000034:2:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-0/00000027:5:#define EM_X86_64	62	/* AMD x86-64 architecture */
+./scalpeloutput/ÿ-0-0/00000027:140:#define EM_AMDGPU	224	/* AMD GPU */
+./scalpeloutput/ÿ-0-21/00021716:357:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021716:358: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021718:53:Description: X.Org X server -- AMD/ATI Radeon display driver
+./scalpeloutput/ÿ-0-21/00021718:54: This package provides the 'radeon' driver for the AMD/ATI cards. The
+./scalpeloutput/ÿ-0-21/00021698:1:processors.  AMD releases microcode patches to correct
+./scalpeloutput/ÿ-0-21/00021035:122: AMD         approximate minimum degree ordering
+./scalpeloutput/ÿ-0-21/00021726:3: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021715:358:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021715:359: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021002:6: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021004:4: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021721:48:Description: X.Org X server -- AMD/ATI Radeon display driver
+./scalpeloutput/ÿ-0-21/00021721:49: This package provides the 'radeon' driver for the AMD/ATI cards. The
+./scalpeloutput/ÿ-0-21/00021779:1:processors.  AMD releases microcode patches to correct
+./scalpeloutput/ÿ-0-21/00021713:461:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021713:462: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021712:462:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021712:463: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021717:355:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021717:356: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021722:46:Description: X.Org X server -- AMD/ATI Radeon display driver
+./scalpeloutput/ÿ-0-21/00021722:47: This package provides the 'radeon' driver for the AMD/ATI cards. The
+./scalpeloutput/ÿ-0-21/00021723:6: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021714:457:Description: X.Org X server -- AMD/ATI display driver wrapper
+./scalpeloutput/ÿ-0-21/00021714:458: This package provides the 'ati' driver for the AMD/ATI Mach64, Rage128,
+./scalpeloutput/ÿ-0-21/00021724:5: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021005:3: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021720:52:Description: X.Org X server -- AMD/ATI Radeon display driver
+./scalpeloutput/ÿ-0-21/00021720:53: This package provides the 'radeon' driver for the AMD/ATI cards. The
+./scalpeloutput/ÿ-0-21/00021725:4: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021003:5: For AMD processors, please refer to the amd64-microcode package.
+./scalpeloutput/ÿ-0-21/00021719:52:Description: X.Org X server -- AMD/ATI Radeon display driver
+./scalpeloutput/ÿ-0-21/00021719:53: This package provides the 'radeon' driver for the AMD/ATI cards. The

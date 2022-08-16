@@ -1,0 +1,7 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: email
+# Filename: Forensics.pcapng
+# Histogram-File-Version: 1.1
+n=132	@openssh.com
+n=6	@libssh.org

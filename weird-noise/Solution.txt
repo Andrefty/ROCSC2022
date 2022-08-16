@@ -1,0 +1,1 @@
+Am folosit https://github.com/xdsopl/robot36 pentru a transforma wac in ppm, care era o poza de unde am copiat flagul: FL4g147#?!23

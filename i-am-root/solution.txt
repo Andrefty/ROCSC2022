@@ -1,0 +1,4 @@
+Mai intai am folosit autopsy pentru a cauta in toate fisierele extrase "rootkit", gasind numele acestuia.
+Am preluat de pe pagina de github numele autorului.
+
+Am folosit apoi bulkextractor, din output-ul caruia am extras cu adresa mac, iar folosind grep dupa "processor" numele procesorului si apoi path de unde a fost executat cu grep dupa "diamorphine.ko"

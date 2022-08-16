@@ -1,0 +1,2 @@
+Pentru primele 3 intrebari, am folosit Network Miner pentru a analiza captura de pachete.
+Astfel am gasit detaliile legate de fisierul compromis folosind tabul Files, iar pentru a identifica familia de malware am uploadat fisierul pe Virus Total, care a identificat Emotet

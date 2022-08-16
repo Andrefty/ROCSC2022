@@ -1,0 +1,44 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: url
+# Filename: Forensics.pcapng
+# Histogram-File-Version: 1.1
+n=100	https://rstforums.com/
+n=55	https://nmap.org/book/nse.html
+n=22	https://rstforums.com/forum/index.php
+n=13	http://ocsp.digicert.com
+n=13	http://www.digicert.com/CPS0
+n=10	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0
+n=10	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F
+n=10	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0
+n=10	http://ocsp.digicert.com0O
+n=9	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B
+n=9	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=
+n=4	http://apps.identrust.com/roots/dstrootcax3.p7c0
+n=4	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0
+n=4	http://cps.letsencrypt.org
+n=4	http://cps.root-x1.letsencrypt.org
+n=4	http://crl.identrust.com/DSTROOTCAX3CRL.crl0
+n=4	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07
+n=4	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00
+n=4	http://r3.i.lencr.org/0+
+n=4	http://r3.o.lencr.org
+n=4	http://x1.c.lencr.org/0
+n=4	http://x1.i.lencr.org/0
+n=3	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0
+n=3	http://ocsp.digicert.com0I
+n=2	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@
+n=2	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0
+n=2	http://info.cern.ch
+n=2	http://info.cern.ch/
+n=2	http://schemas.xmlsoap.org/soap/envelope/
+n=2	http://www.w3.org/2001/XMLSchema
+n=2	http://www.w3.org/2001/XMLSchema-instance
+n=2	https://rstforums.com/favicon.ico
+n=1	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0@
+n=1	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0
+n=1	http://home.web.cern.ch/about
+n=1	http://home.web.cern.ch/topics/birth-web
+n=1	http://info.cern.ch/hypertext/WWW/TheProject.html
+n=1	http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html
+n=1	https://www.google.com/

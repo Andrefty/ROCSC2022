@@ -1,0 +1,31 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Fri Jul 22 17:42:21 2022
+URL_BASE: http://34.141.22.116:32180/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612                                                          
+
+---- Scanning URL: http://34.141.22.116:32180/ ----
++ http://34.141.22.116:32180/index.php (CODE:200|SIZE:178)                                                        
+==> DIRECTORY: http://34.141.22.116:32180/testsite/                                                               
+                                                                                                                  
+---- Entering directory: http://34.141.22.116:32180/testsite/ ----
++ http://34.141.22.116:32180/testsite/admin.php (CODE:200|SIZE:54)                                                
+==> DIRECTORY: http://34.141.22.116:32180/testsite/css/                                                           
++ http://34.141.22.116:32180/testsite/index.php (CODE:302|SIZE:0)                                                 
+==> DIRECTORY: http://34.141.22.116:32180/testsite/js/                                                            
+                                                                                                                  
+---- Entering directory: http://34.141.22.116:32180/testsite/css/ ----
+                                                                                                                  
+---- Entering directory: http://34.141.22.116:32180/testsite/js/ ----
+                                                                                                                  
+-----------------
+END_TIME: Fri Jul 22 18:02:57 2022
+DOWNLOADED: 18448 - FOUND: 3

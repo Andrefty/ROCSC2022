@@ -1,0 +1,33 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jul 22 17:46:09 2022
+Invocation: foremost -v -i malicious-network-traffic.pcap 
+Output directory: /home/mihnea/Desktop/Rocsc/malicious-internet-traffic/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: malicious-network-traffic.pcap
+Start: Fri Jul 22 17:46:09 2022
+Length: 2 MB (2966350 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000018.jpg 	      86 KB 	       9339 	 
+1:	00000002.htm 	      204 B 	       1259 	 
+2:	00000335.htm 	      181 B 	     171754 	 
+3:	00000004.ole 	     107 KB 	       2524 	 
+4:	00000195.zip 	       3 KB 	     100140 	 
+5:	00000204.zip 	       1 KB 	     104474 	 
+6:	00000337.exe 	     516 KB 	     172649 	 12/05/2018 14:15:11
+Finish: Fri Jul 22 17:46:09 2022
+
+7 FILES EXTRACTED
+	
+jpg:= 1
+htm:= 2
+ole:= 1
+zip:= 2
+exe:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Jul 22 17:46:09 2022

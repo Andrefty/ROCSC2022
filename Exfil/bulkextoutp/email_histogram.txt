@@ -1,0 +1,17 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: email
+# Filename: Forensics.pcapng
+# Histogram-File-Version: 1.1
+n=12	aes128-gcm@openssh.com
+n=12	aes256-gcm@openssh.com
+n=12	hmac-sha1-etm@openssh.com
+n=12	hmac-sha2-256-etm@openssh.com
+n=12	hmac-sha2-512-etm@openssh.com
+n=12	lchacha20-poly1305@openssh.com
+n=12	umac-128-etm@openssh.com
+n=12	umac-128@openssh.com
+n=12	umac-64-etm@openssh.com
+n=12	umac-64@openssh.com
+n=12	zlib@openssh.com
+n=6	curve25519-sha256@libssh.org

@@ -1,0 +1,339 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.0.0
+# Feature-Recorder: url
+# Filename: Forensics.pcapng
+# Feature-File-Version: 1.1
+13044073	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13044337	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13047017	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13047260	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Depth: 0\015\012Con
+13047608	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13049399	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13049709	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13050137	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13050563	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13050827	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13051092	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13051172	http://www.w3.org/2001/XMLSchema	lope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="htt
+13051217	http://www.w3.org/2001/XMLSchema-instance	ema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soap="ht
+13051272	http://schemas.xmlsoap.org/soap/envelope/	ce" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Header><
+13051776	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Depth: 0\015\012Con
+13052177	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13053697	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+13053976	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+13054213	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13054477	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13054809	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13055073	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13055837	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13056101	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13056325	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13056589	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13056813	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13057077	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13057301	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+13057580	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+13057817	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+13058096	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+13058333	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13058597	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13058821	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13059085	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13059309	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13059573	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13060161	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+13060440	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+13063561	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13063860	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13064629	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13064893	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13065132	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13065381	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13065789	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13066053	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13066921	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13067185	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13067409	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+13067688	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+13069051	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13069353	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13069761	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13070025	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13070249	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13070513	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13071684	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13072256	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13072481	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Connection: cl
+13073185	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13073449	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13074731	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13075035	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13075445	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13075709	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13075933	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13076197	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13077518	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13078013	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13078277	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13078519	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13079213	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13079477	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13080136	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13080545	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13080809	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13083636	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13085197	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13085461	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13087762	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+13088077	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13088341	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13089229	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13089493	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+13090669	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+13090914	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+27573629	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+27573893	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30033606	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30033850	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30034100	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30034523	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30035019	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30035263	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30035698	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30035820	http://www.w3.org/2001/XMLSchema	lope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="htt
+30035865	http://www.w3.org/2001/XMLSchema-instance	ema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soap="ht
+30035920	http://schemas.xmlsoap.org/soap/envelope/	ce" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Header><
+30036526	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30036770	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30060705	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30060969	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30061633	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30061897	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30062121	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30062400	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30063965	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30064244	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30069513	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30069777	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30070521	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30070785	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30071009	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30071288	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30076381	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30076645	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30077617	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30077881	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30083853	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30084132	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30099351	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30099595	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30149921	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30150185	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30158177	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30158456	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30166131	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30238821	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30239085	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30270040	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30294582	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30303838	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30304078	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30326521	https://rstforums.com/forum/index.php	ache\015\012Location: https://rstforums.com/forum/index.php\015\012Content-Length
+30326800	https://rstforums.com/forum/index.php	 moved <a href="https://rstforums.com/forum/index.php">here</a>.</p>\012
+30327037	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30327301	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30336981	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30337245	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30337469	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30337733	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30378774	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30379667	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30393057	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30393321	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30399329	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30399593	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30419187	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30459369	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30459705	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Connection: cl
+30519381	https://rstforums.com/favicon.ico	ache\015\012Location: https://rstforums.com/favicon.ico\015\012Content-Length
+30519656	https://rstforums.com/favicon.ico	 moved <a href="https://rstforums.com/favicon.ico">here</a>.</p>\012
+30522602	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30571237	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30571501	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30607707	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30631445	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30631709	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30632110	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30641353	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30641617	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30687570	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30699086	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30703373	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30703637	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30712633	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30712897	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30758098	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30759369	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30759633	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30772914	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30775789	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30776053	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30812310	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30813585	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30813849	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30829874	https://nmap.org/book/nse.html	ripting Engine; https://nmap.org/book/nse.html)\015\012Connection: c
+30841525	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30841789	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30959139	http://r3.o.lencr.org	0G0!\006\010+\006\001\005\005\0070\001\206\025http://r3.o.lencr.org0"\006\010+\006\001\005\005\0070\002\206\026ht
+30959174	http://r3.i.lencr.org/0+	rg0"\006\010+\006\001\005\005\0070\002\206\026http://r3.i.lencr.org/0+\006\003U\035\021\004$0"\202\015rstfo
+30959293	http://cps.letsencrypt.org	0(0&\006\010+\006\001\005\005\007\002\001\026\032http://cps.letsencrypt.org0\202\001\005\006\012+\006\001\004\001\326y\002\004\002
+30960538	http://x1.i.lencr.org/0	0$0"\006\010+\006\001\005\005\0070\002\206\026http://x1.i.lencr.org/0'\006\003U\035\037\004 0\0360\034\240\032\240\030
+30960579	http://x1.c.lencr.org/0	\003U\035\037\004 0\0360\034\240\032\240\030\206\026http://x1.c.lencr.org/0"\006\003U\035 \004\0330\0310\010\006\006g\201
+30962017	http://apps.identrust.com/roots/dstrootcax3.p7c0	0=0;\006\010+\006\001\005\005\0070\002\206/http://apps.identrust.com/roots/dstrootcax3.p7c0\037\006\003U\035#\004\0300\026\200\024ħ\261\244
+30962149	http://cps.root-x1.letsencrypt.org	000.\006\010+\006\001\005\005\007\002\001\026"http://cps.root-x1.letsencrypt.org0<\006\003U\035\037\00450301\240/\240
+30962202	http://crl.identrust.com/DSTROOTCAX3CRL.crl0	\003U\035\037\00450301\240/\240-\206+http://crl.identrust.com/DSTROOTCAX3CRL.crl0\035\006\003U\035\016\004\026\004\024y\264Y\346{\266
+30965190	http://r3.o.lencr.org	0G0!\006\010+\006\001\005\005\0070\001\206\025http://r3.o.lencr.org0"\006\010+\006\001\005\005\0070\002\206\026ht
+30965225	http://r3.i.lencr.org/0+	rg0"\006\010+\006\001\005\005\0070\002\206\026http://r3.i.lencr.org/0+\006\003U\035\021\004$0"\202\015rstfo
+30965344	http://cps.letsencrypt.org	0(0&\006\010+\006\001\005\005\007\002\001\026\032http://cps.letsencrypt.org0\202\001\005\006\012+\006\001\004\001\326y\002\004\002
+30966589	http://x1.i.lencr.org/0	0$0"\006\010+\006\001\005\005\0070\002\206\026http://x1.i.lencr.org/0'\006\003U\035\037\004 0\0360\034\240\032\240\030
+30966630	http://x1.c.lencr.org/0	\003U\035\037\004 0\0360\034\240\032\240\030\206\026http://x1.c.lencr.org/0"\006\003U\035 \004\0330\0310\010\006\006g\201
+30968068	http://apps.identrust.com/roots/dstrootcax3.p7c0	0=0;\006\010+\006\001\005\005\0070\002\206/http://apps.identrust.com/roots/dstrootcax3.p7c0\037\006\003U\035#\004\0300\026\200\024ħ\261\244
+30968200	http://cps.root-x1.letsencrypt.org	000.\006\010+\006\001\005\005\007\002\001\026"http://cps.root-x1.letsencrypt.org0<\006\003U\035\037\00450301\240/\240
+30968253	http://crl.identrust.com/DSTROOTCAX3CRL.crl0	\003U\035\037\00450301\240/\240-\206+http://crl.identrust.com/DSTROOTCAX3CRL.crl0\035\006\003U\035\016\004\026\004\024y\264Y\346{\266
+30968917	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30969181	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30978580	http://r3.o.lencr.org	0G0!\006\010+\006\001\005\005\0070\001\206\025http://r3.o.lencr.org0"\006\010+\006\001\005\005\0070\002\206\026ht
+30978615	http://r3.i.lencr.org/0+	rg0"\006\010+\006\001\005\005\0070\002\206\026http://r3.i.lencr.org/0+\006\003U\035\021\004$0"\202\015rstfo
+30978734	http://cps.letsencrypt.org	0(0&\006\010+\006\001\005\005\007\002\001\026\032http://cps.letsencrypt.org0\202\001\005\006\012+\006\001\004\001\326y\002\004\002
+30979979	http://x1.i.lencr.org/0	0$0"\006\010+\006\001\005\005\0070\002\206\026http://x1.i.lencr.org/0'\006\003U\035\037\004 0\0360\034\240\032\240\030
+30980020	http://x1.c.lencr.org/0	\003U\035\037\004 0\0360\034\240\032\240\030\206\026http://x1.c.lencr.org/0"\006\003U\035 \004\0330\0310\010\006\006g\201
+30981458	http://apps.identrust.com/roots/dstrootcax3.p7c0	0=0;\006\010+\006\001\005\005\0070\002\206/http://apps.identrust.com/roots/dstrootcax3.p7c0\037\006\003U\035#\004\0300\026\200\024ħ\261\244
+30981590	http://cps.root-x1.letsencrypt.org	000.\006\010+\006\001\005\005\007\002\001\026"http://cps.root-x1.letsencrypt.org0<\006\003U\035\037\00450301\240/\240
+30981643	http://crl.identrust.com/DSTROOTCAX3CRL.crl0	\003U\035\037\00450301\240/\240-\206+http://crl.identrust.com/DSTROOTCAX3CRL.crl0\035\006\003U\035\016\004\026\004\024y\264Y\346{\266
+30984101	https://rstforums.com/	ache\015\012Location: https://rstforums.com/\015\012Content-Length
+30984346	https://rstforums.com/	 moved <a href="https://rstforums.com/">here</a>.</p>\012
+30999664	http://r3.o.lencr.org	0G0!\006\010+\006\001\005\005\0070\001\206\025http://r3.o.lencr.org0"\006\010+\006\001\005\005\0070\002\206\026ht
+30999699	http://r3.i.lencr.org/0+	rg0"\006\010+\006\001\005\005\0070\002\206\026http://r3.i.lencr.org/0+\006\003U\035\021\004$0"\202\015rstfo
+30999818	http://cps.letsencrypt.org	0(0&\006\010+\006\001\005\005\007\002\001\026\032http://cps.letsencrypt.org0\202\001\005\006\012+\006\001\004\001\326y\002\004\002
+31001063	http://x1.i.lencr.org/0	0$0"\006\010+\006\001\005\005\0070\002\206\026http://x1.i.lencr.org/0'\006\003U\035\037\004 0\0360\034\240\032\240\030
+31001104	http://x1.c.lencr.org/0	\003U\035\037\004 0\0360\034\240\032\240\030\206\026http://x1.c.lencr.org/0"\006\003U\035 \004\0330\0310\010\006\006g\201
+31002542	http://apps.identrust.com/roots/dstrootcax3.p7c0	0=0;\006\010+\006\001\005\005\0070\002\206/http://apps.identrust.com/roots/dstrootcax3.p7c0\037\006\003U\035#\004\0300\026\200\024ħ\261\244
+31002674	http://cps.root-x1.letsencrypt.org	000.\006\010+\006\001\005\005\007\002\001\026"http://cps.root-x1.letsencrypt.org0<\006\003U\035\037\00450301\240/\240
+31002727	http://crl.identrust.com/DSTROOTCAX3CRL.crl0	\003U\035\037\00450301\240/\240-\206+http://crl.identrust.com/DSTROOTCAX3CRL.crl0\035\006\003U\035\016\004\026\004\024y\264Y\346{\266
+41208356	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41208428	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41208529	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41208587	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41208625	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41209768	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41209806	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41209877	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41212636	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41212708	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41212809	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41212867	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41212905	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41214048	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41214086	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41214157	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41215404	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41215476	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41215577	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41215635	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41215673	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41216816	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41216854	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41216925	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41221560	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41221632	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41221733	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41221791	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41221829	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41222972	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41223010	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41223081	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41224328	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41224400	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41224501	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41224559	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41224597	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41225740	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41225778	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41225849	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41227272	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41227344	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41227445	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41227503	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41227541	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41228684	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41228722	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41228793	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41232672	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41232744	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41232845	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41232903	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41232941	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41234084	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41234122	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41234193	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41258388	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41258460	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41258561	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41258619	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41258657	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41259800	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41259838	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41259909	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41546876	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41546948	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41547049	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41547107	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41547145	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41548288	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41548326	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0B\006\003U\035\037\004;0907\2405\2403\206
+41548397	http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=	\003U\035\037\004;0907\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=\006\003U\035 \0046040\013\006\011`\206H
+41731733	http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F	\035\037\004\201\2230\201\2200F\240D\240B\206@http://crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0F\240D\240B\206@http://crl
+41731805	http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0	A1-1.crl0F\240D\240B\206@http://crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41731906	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\201\205\006\010+\006\001\005\005\007\001\001\004y0w
+41731964	http://ocsp.digicert.com0O	0w0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0O\006\010+\006\001\005\005\0070\002\206Chttp
+41732002	http://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0	om0O\006\010+\006\001\005\005\0070\002\206Chttp://cacerts.digicert.com/DigiCertTLSHybridECCSHA3842020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41733143	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41733181	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0{\006\003U\035\037\004t0r07\2405\2403
+41733252	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl07\2405\2403\2061http://crl
+41733309	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00	otCA.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootCA.crl00\006\003U\035 \004)0'0\007\006\005g\201\014
+41737745	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+41737811	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+41737906	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+41737963	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+41738001	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41739462	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41739500	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0{\006\003U\035\037\004t0r07\2405\2403
+41739571	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl07\2405\2403\2061http://crl
+41739628	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00	otCA.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootCA.crl00\006\003U\035 \004)0'0\007\006\005g\201\014
+41743889	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0@\240>\240<\206:http://crl
+41743955	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0	A1-4.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-4.crl0>\006\003U\035 \00470503\006\006g\201
+41744050	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+41744107	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+41744145	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41745606	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41745644	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0{\006\003U\035\037\004t0r07\2405\2403
+41745715	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl07\2405\2403\2061http://crl
+41745772	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00	otCA.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootCA.crl00\006\003U\035 \004)0'0\007\006\005g\201\014
+41747477	http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0@	\035\037\004\201\2070\201\2040@\240>\240<\206:http://crl3.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0@\240>\240<\206:http://crl
+41747543	http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0	A1-1.crl0@\240>\240<\206:http://crl4.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crl0>\006\003U\035 \00470503\006\006g\201
+41747638	http://www.digicert.com/CPS0	0)0'\006\010+\006\001\005\005\007\002\001\026\033http://www.digicert.com/CPS0\006\010+\006\001\005\005\007\001\001\004s0q0
+41747695	http://ocsp.digicert.com0I	0q0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0I\006\010+\006\001\005\005\0070\002\206=http
+41747733	http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0	om0I\006\010+\006\001\005\005\0070\002\206=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt0\014\006\003U\035\023\001\001\377\004\0020\0000\202\001
+41749194	http://ocsp.digicert.com	0h0$\006\010+\006\001\005\005\0070\001\206\030http://ocsp.digicert.com0@\006\010+\006\001\005\005\0070\002\2064ht
+41749232	http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0	om0@\006\010+\006\001\005\005\0070\002\2064http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0{\006\003U\035\037\004t0r07\2405\2403
+41749303	http://crl3.digicert.com/DigiCertGlobalRootCA.crl07	\003U\035\037\004t0r07\2405\2403\2061http://crl3.digicert.com/DigiCertGlobalRootCA.crl07\2405\2403\2061http://crl
+41749360	http://crl4.digicert.com/DigiCertGlobalRootCA.crl00	otCA.crl07\2405\2403\2061http://crl4.digicert.com/DigiCertGlobalRootCA.crl00\006\003U\035 \004)0'0\007\006\005g\201\014
+54029762	https://www.google.com/	q=0.9\015\012Referer: https://www.google.com/\015\012Accept-Encodin
+54030307	http://info.cern.ch	<header>\012<title>http://info.cern.ch</title>\012</heade
+54030350	http://info.cern.ch	\012</header>\012\012<h1>http://info.cern.ch - home of the f
+54030447	http://info.cern.ch/hypertext/WWW/TheProject.html	l>\012<li><a href="http://info.cern.ch/hypertext/WWW/TheProject.html">Browse the fir
+54030545	http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html	i>\012<li><a href="http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html">Browse the fir
+54030690	http://home.web.cern.ch/topics/birth-web	i>\012<li><a href="http://home.web.cern.ch/topics/birth-web">Learn about th
+54030787	http://home.web.cern.ch/about	i>\012<li><a href="http://home.web.cern.ch/about">Learn about CE
+54032380	http://info.cern.ch/	q=0.8\015\012Referer: http://info.cern.ch/\015\012Accept-Encodin
+56154911	http://info.cern.ch/	q=0.9\015\012Referer: http://info.cern.ch/\015\012Accept-Encodin
